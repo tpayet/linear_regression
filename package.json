@@ -1,0 +1,7 @@
+{
+	"name": "ft_linear_regression",
+	"version" : "0.0.0",
+	"dependencies" : {
+		"csv-parser" : "~1.7.0"
+	}
+}
